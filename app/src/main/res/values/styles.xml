@@ -4,7 +4,7 @@
         <!-- Primary theme color of the app (sets background color of app bar) -->
         <item name="colorPrimary">#FF9800</item>
         <!-- PrimaryDark theme color of the app (sets background color of status bar) -->
-        <item name="colorPrimaryDark">#ffff7907</item>
+        <item name="colorPrimaryDark">#f57c00</item>
         <!-- Primary text color of the app -->
         <item name="android:textColorPrimary">#FFFFFF</item>
         <!-- Background color of buttons in the app -->
